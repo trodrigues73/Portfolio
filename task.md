@@ -1,4 +1,21 @@
-# Liste des Tâches pour le Portfolio
+mettre une citation / ou une phrase qui me represente / dessous analyste
+
+
+Bouton a propos de moi 
+
+
+
+Qualité > Compétences
+
+
+RéalisationS
+
+
+
+mettre des intertitre personnalisés
+
+
+Bouton qui dans competences techniques qui renvoie voir les realisations
  
 ## 🎯 Exigences Générales
 - [ ] Nom et prénom visibles sur toutes les pages
